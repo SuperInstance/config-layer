@@ -1,0 +1,8 @@
+[package]
+name = "config-layer"
+version = "0.1.0"
+edition = "2021"
+description = "Layered configuration management for Rust applications"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
