@@ -2,6 +2,7 @@
 name = "config-layer"
 version = "0.1.0"
 edition = "2021"
+repository = "https://github.com/SuperInstance/config-layer"
 description = "Layered configuration management for Rust applications"
 license = "MIT OR Apache-2.0"
 
